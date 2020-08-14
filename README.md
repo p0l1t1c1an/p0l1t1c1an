@@ -20,7 +20,7 @@
 <div>
   
   [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Font_Awesome_5_brands_freebsd.svg" width="50px" />][free]
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="50px" />][linux]
+  [<img src="https://dominicm.com/wp-content/uploads/2015/11/arch-linux.png" width="50px" />][arch]
 
 </div>
 
@@ -65,7 +65,7 @@
 [java]: https://openjdk.java.net/
 
 [free]: https://www.freebsd.org/
-[linux]: https://www.linux.org/
+[arch]: https://www.archlinux.org/
 
 [vim]: http://www.vim.org
 [git]: https://git-scm.org
