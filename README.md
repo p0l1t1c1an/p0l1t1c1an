@@ -71,7 +71,8 @@ I may upload all code and designs of the drone so others can replicate it.
 ### Additional Note
 I have a few more repositories than those I described earlier. These projects are either poorly programmed or
 deserted repos. They are left there to show my previous work and mistakes, since I am not perfect nor is anyone else. 
-However, they are subject to being deleted/hidden at anytime.
+However, they are subject to being deleted/hidden at anytime. The repositories that are pinned and starred are the ones that
+I am proud of or are my dotfiles.  
 
 <!-- What I know -->
 [rust]: https://rust-lang.org
