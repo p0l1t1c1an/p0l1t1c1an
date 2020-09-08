@@ -5,7 +5,7 @@
 `To Write`
 
 ### Technologies I'm familiar with:
-#### Languages:
+#### Languages
 <div>
   
   [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="50px" />][rust]
@@ -16,11 +16,12 @@
 
 </div>
   
-#### Operating Systems
+#### Operating Systems / Distributions
 <div>
   
   [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Font_Awesome_5_brands_freebsd.svg" width="50px" />][free]
   [<img src="https://dominicm.com/wp-content/uploads/2015/11/arch-linux.png" width="50px" />][arch]
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ubuntu_and_Ubuntu_Server_Icon.png" width="50px" />][ubuntu]
 
 </div>
 
@@ -34,7 +35,7 @@
 
 </div>
 
-### Technologies I want to learn:
+### Technologies I want to learn / am learning:
 <div>
   
   [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" height="30px" />][go]
@@ -45,27 +46,26 @@
   [<img src="https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo--hat-only.svg" width="50px" />][red]
   [<img src="https://static.ixsystems.co/uploads/2016/04/freenas_shark-150x150.png" width="50px" />][nas]
   [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" width="50px" />][kali]
+  [<img src="https://upload.wikimedia.org/wikipedia/en/8/89/IllumosPhoenixRGB.png" width="50px" />][illumos]
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Puffy_mascot_openbsd.gif" width="50px" />][openbsd]
 
   [<img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" width="50px" />][docker]
   [<img src="https://infosecaddicts.com/wp-content/uploads/2017/07/john.png" width="50px" />][john]
-
+  [<img src="https://bhyvecon.org/bhyve.png" width="50px" />][bhyve]
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Kvmbanner-logo2_1.png" height="30px" />][kvm]
 </div>
-
-
-### Fields I am interested in and want to learn:
-
-`To Write`
 
 
 <!-- What I know -->
 [rust]: https://rust-lang.org
-[python]: https://python.org
 [c]: https://clang.llvm.org/
 [cpp]: https://www.cplusplus.com/
+[python]: https://python.org
 [java]: https://openjdk.java.net/
 
 [free]: https://www.freebsd.org/
 [arch]: https://www.archlinux.org/
+[ubuntu]: https://ubuntu.com/
 
 [vim]: http://www.vim.org
 [git]: https://git-scm.org
@@ -82,6 +82,10 @@
 [red]: https://www.redhat.com/en
 [nas]: https://www.freenas.org/
 [kali]: https://www.kali.org/
+[illumos]: https://www.illumos.org/
+[openbsd]: https://www.openbsd.org/
 
 [docker]: https://docker.com
 [john]: https://github.com/magnumripper/JohnTheRipper
+[bhyve]: https://bhyve.org/
+[kvm]: https://www.linux-kvm.org
