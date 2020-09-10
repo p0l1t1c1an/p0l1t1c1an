@@ -42,8 +42,6 @@ I may upload all code and designs of the drone so others can replicate it.
   
   [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Vim_gloss_128.png" width="50px" />][vim]
   [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50px" />][git]
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" width="50px" />][wire]
-  [<img src="https://nmap.org/images/nmap-logo-64px.svg" height="50px" />][nmap]
 
 </div>
 
@@ -65,6 +63,8 @@ I may upload all code and designs of the drone so others can replicate it.
   [<img src="https://infosecaddicts.com/wp-content/uploads/2017/07/john.png" width="50px" />][john]
   [<img src="https://bhyvecon.org/bhyve.png" width="50px" />][bhyve]
   [<img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Kvmbanner-logo2_1.png" height="30px" />][kvm]
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" width="50px" />][wire]
+  [<img src="https://nmap.org/images/nmap-logo-64px.svg" height="50px" />][nmap]
 
 </div>
 
