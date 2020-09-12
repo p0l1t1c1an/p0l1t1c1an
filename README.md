@@ -60,11 +60,14 @@ I may upload all code and designs of the drone so others can replicate it.
   [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Puffy_mascot_openbsd.gif" width="50px" />][openbsd]
 
   [<img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" width="50px" />][docker]
-  [<img src="https://infosecaddicts.com/wp-content/uploads/2017/07/john.png" width="50px" />][john]
   [<img src="https://bhyvecon.org/bhyve.png" width="50px" />][bhyve]
   [<img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Kvmbanner-logo2_1.png" height="30px" />][kvm]
+  
+  [<img src="https://infosecaddicts.com/wp-content/uploads/2017/07/john.png" width="50px" />][john]
   [<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" width="50px" />][wire]
   [<img src="https://nmap.org/images/nmap-logo-64px.svg" height="50px" />][nmap]
+  [<img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2_400x400.png" width="50px" />][metasploit]
+  [<img src="https://aircrack-ng.org/resources/aircrack-ng-new-logo.jpg" height="40px" />][aircrack]
 
 </div>
 
@@ -87,8 +90,6 @@ I am proud of or are my dotfiles.
 
 [vim]: http://www.vim.org
 [git]: https://git-scm.org
-[wire]: https://www.wireshark.org/
-[nmap]: https://nmap.org/
 
 
 <!-- What I want to know -->
@@ -104,6 +105,12 @@ I am proud of or are my dotfiles.
 [openbsd]: https://www.openbsd.org/
 
 [docker]: https://docker.com
-[john]: https://github.com/magnumripper/JohnTheRipper
 [bhyve]: https://bhyve.org/
 [kvm]: https://www.linux-kvm.org
+
+[john]: https://github.com/magnumripper/JohnTheRipper
+[wire]: https://www.wireshark.org/
+[nmap]: https://nmap.org/
+[aircrack]: https://www.aircrack-ng.org/
+[metasploit]: https://www.metasploit.com/
+
