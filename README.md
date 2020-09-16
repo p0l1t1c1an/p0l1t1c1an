@@ -1,5 +1,9 @@
 ## Howdy there, I'm p0l1t1c1an (aka Jacob Boicken)
 
+![p0l1t1c1an's github stats](https://github-readme-stats.vercel.app/api?username=p0l1t1c1an&include_all_commits=true&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p0l1t1c1an&theme=dracula&hide=shell&layout=compact&card_width=444)
+
 ### Previous, Present, and Prospective Projects
 #### Previous
 - **Mines**: A minesweeper clone that I wrote in C with GTK3. 
@@ -71,11 +75,14 @@ I may upload all code and designs of the drone so others can replicate it.
 
 </div>
 
-### Additional Note
-I have a few more repositories than those I described earlier. These projects are either poorly programmed or
-deserted repos. They are left there to show my previous work and mistakes, since I am not perfect nor is anyone else. 
-However, they are subject to being deleted/hidden at anytime. The repositories that are pinned and starred are the ones that
-I am proud of or are my dotfiles.  
+### Where To Find Me
+<div>
+  
+  [<img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />][github]
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
+</div>
+
 
 <!-- What I know -->
 [rust]: https://rust-lang.org
@@ -113,4 +120,8 @@ I am proud of or are my dotfiles.
 [nmap]: https://nmap.org/
 [aircrack]: https://www.aircrack-ng.org/
 [metasploit]: https://www.metasploit.com/
+
+<!-- Where to Find Me -->
+[github]: https://github.com/p0l1t1c1an
+[linkedin]: https://www.linkedin.com/in/jacob-boicken-0201571b7/
 
