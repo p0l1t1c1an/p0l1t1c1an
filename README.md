@@ -1,8 +1,8 @@
 ## Howdy there, I'm p0l1t1c1an (aka Jacob Boicken)
 
-![p0l1t1c1an's github stats](https://github-readme-stats.vercel.app/api?username=p0l1t1c1an&include_all_commits=true&show_icons=true&theme=dracula)
+![p0l1t1c1an's github stats](https://github-readme-stats.vercel.app/api?username=p0l1t1c1an&include_all_commits=true&show_icons=true&theme=monokai)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p0l1t1c1an&theme=dracula&hide=shell&layout=compact&card_width=444)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p0l1t1c1an&theme=monokai&hide=shell&layout=compact&card_width=444)
 
 ### Previous, Present, and Prospective Projects
 #### Previous
@@ -14,8 +14,12 @@
 figuring out how I want to set it up.  Within this testing phase, I am going to be trying to run OpenBSD, Linux, and illumos VMs.
 
 #### Prospective
-- **Homeserver**: In the Winter of 2020, I am planning on creating a server and will be documenting the creation and 
+- **Homeserver**: This winter, I am planning on creating a server and will be documenting the creation and 
 use of said server, so I can reference it later if needed and in case anyone wants to recreate a similar server as well.
+- **Daily Schedule Keeper**: A Rust and/or Cpp application for my Unix-like systems to keep me to my daily schedule. 
+It should keep track of the active application and notify me when I have not been productive enough. Configurable for each day of the week.
+Whitelisting productive applications and tracks webpages on a browser to keep track of productivity.
+Notifies me when I have a class, lab, or meeting to go to that day. Shows end of the day productivity and can be reloaded live.
 - **Drone**: This is a long off project, but I want to build a drone from scratch. By this, I mean 3d print the parts, 
 designing the circuits / boards, and program it in Rust or C. This is just something I am interested in doing. 
 I may upload all code and designs of the drone so others can replicate it.
