@@ -10,12 +10,11 @@
 - **Bsdfan-rust**: A BSD utility to control fans on Thinkpads and other devices that support the acpi_ibm driver.  
 
 #### Present
-- I am currently self-teaching myself how to use bhyve and KVM as I am planning on building a homeserver and am 
-figuring out how I want to set it up.  Within this testing phase, I am going to be trying to run OpenBSD, Linux, and illumos VMs.
+- **HomeServer**: This winter, I am planning on creating a server and will be documenting the creation and 
+use of said server, so I can reference it later if needed and in case anyone wants to recreate a similar server as well.
+I have started planning out the server and am documenting the pre-server development now.
 
 #### Prospective
-- **Homeserver**: This winter, I am planning on creating a server and will be documenting the creation and 
-use of said server, so I can reference it later if needed and in case anyone wants to recreate a similar server as well.
 - **Daily Schedule Keeper**: A Rust and/or Cpp application for my Unix-like systems to keep me to my daily schedule. 
 It should keep track of the active application and notify me when I have not been productive enough. Configurable for each day of the week.
 Whitelisting productive applications and tracks webpages on a browser to keep track of productivity.
