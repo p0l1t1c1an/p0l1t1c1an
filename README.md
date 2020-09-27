@@ -10,15 +10,15 @@
 - **Bsdfan-rust**: A BSD utility to control fans on Thinkpads and other devices that support the acpi_ibm driver.  
 
 #### Present
+- **Septem**: A highly configurable Rust application to keep you to your daily schedule and track productivity. 
+It will track the active application and notify you when you have not been productive enough. Configurable for each day of the week.
+Whitelists applications and tracks webpages on specified browsers to keep track of productivity.
+Notifies you when you have an activity to go to such as a class. Finally, shows your end of the day productivity and can be reconfigured live.
 - **HomeServer**: This winter, I am planning on creating a server and will be documenting the creation and 
 use of said server, so I can reference it later if needed and in case anyone wants to recreate a similar server as well.
 I have started planning out the server and am documenting the pre-server development now.
 
 #### Prospective
-- **Daily Schedule Keeper**: A Rust and/or Cpp application for my Unix-like systems to keep me to my daily schedule. 
-It should keep track of the active application and notify me when I have not been productive enough. Configurable for each day of the week.
-Whitelisting productive applications and tracks webpages on a browser to keep track of productivity.
-Notifies me when I have a class, lab, or meeting to go to that day. Shows end of the day productivity and can be reloaded live.
 - **Drone**: This is a long off project, but I want to build a drone from scratch. By this, I mean 3d print the parts, 
 designing the circuits / boards, and program it in Rust or C. This is just something I am interested in doing. 
 I may upload all code and designs of the drone so others can replicate it.
