@@ -1,7 +1,7 @@
 ## Howdy!
 
 My name is Jacob Boicken, but on the interwebs I'm known as p0l1t1c1an. I'm a cybersecurity engineering student at Iowa State.  
-I'm not much of a programmer as all I have done is for my personal use like a minesweeper clone or a fan controller for my computer. 
+I'm not much of a programmer as all I have done is for my personal use like a minesweeper clone or a fan controller for my computer.   
 So, when it comes down to what I am interested in, I would rather learn about networking and security over software development.  
 I am a big fan of the Rust language though.
 
