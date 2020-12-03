@@ -56,6 +56,7 @@ I am currently building and plaaning out the use of my server.
   
   [<img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />][github]
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+  [<img src="https://img.shields.io/badge/discord-7289da.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
 
 </div>
 
@@ -80,4 +81,5 @@ I am currently building and plaaning out the use of my server.
 <!-- Where to Find Me -->
 [github]: https://github.com/p0l1t1c1an
 [linkedin]: https://www.linkedin.com/in/jacob-boicken-0201571b7/
+[discord]: https://discordapp.com/users/745105200523771924 
 
