@@ -11,10 +11,9 @@ I am a big fan of the Rust language though.
 - **Bsdfan-rust**: A BSD utility to control fans on Thinkpads and other devices that support the acpi_ibm driver.  
 
 #### Current and Future
-- **Septem**: A highly configurable Rust application to keep you to your daily schedule and track productivity. 
+- **Septem**: A configurable Rust application to keep you to your daily schedule and track productivity. 
 It will track the active application and notify you when you have not been productive enough. Configurable for each day of the week.
-Whitelists applications and tracks webpages on specified browsers to keep track of productivity.
-Notifies you when you have an activity to go to such as a class. Finally, shows your end of the day productivity and can be reconfigured live.
+Whitelists applications to keep track of productivity. Finally, shows your end of the weel productivity.
 - **HomeServer**: I am just starting to create my own server and will be documenting the creation and 
 use of said server, so I can reference it later if needed and in case anyone wants to recreate a similar server as well.
 I am currently building and plaaning out the use of my server.
