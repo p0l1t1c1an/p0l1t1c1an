@@ -1,9 +1,9 @@
-## Howdy!
+# Howdy!
 
-My name is Jacob Boicken, but on the interwebs I'm known as p0l1t1c1an. I'm a cybersecurity engineering student at Iowa State.  
-I'm not much of a programmer as all I have done is for my personal use like a minesweeper clone or a fan controller for my computer.   
-So, when it comes down to what I am interested in, I would rather learn about networking and security over software development.  
-I am a big fan of the Rust language though.
+My name is Jacob Boicken. I'm a cybersecurity engineer studying at Iowa State.  
+I'm not much of a programmer. All I've done has been for personal use like a minesweeper clone or a fan controller for my computer.   
+When it comes down my interests, I would rather learn about cybersecurity, **ethics**, or pyschology over programming any day.   
+I am a big fan of the Rust language, the BSD family, and 60s to 70s Progressive Rock.
 
 ### My Projects
 #### Completed
@@ -11,13 +11,10 @@ I am a big fan of the Rust language though.
 - **Bsdfan-rust**: A BSD utility to control fans on Thinkpads and other devices that support the acpi_ibm driver.  
 
 #### Current and Future
-- **Septem**: A configurable Rust application to keep you to your daily schedule and track productivity. 
-It will track the active application and notify you when you have not been productive enough. Configurable for each day of the week.
-Whitelists applications to keep track of productivity. Finally, shows your end of the week productivity.
-- **HomeServer**: I am just starting to create my own server and will be documenting the creation and 
-use of said server, so I can reference it later if needed and in case anyone wants to recreate a similar server as well.
-I am currently building and plaaning out the use of my server.
+- **Septem**: A configurable daily productivity tracker by recording what applications you are on and for how long.
+- **HomeServer**: I am setting up my own server and will be documenting the my use of the server to reference later.
 
+<!---
 ### Technologies I'm familiar with:
 #### Languages
 <div>
@@ -49,6 +46,7 @@ I am currently building and plaaning out the use of my server.
   [<img src="https://nmap.org/images/nmap-logo-64px.svg" height="50px" />][nmap]
 
 </div>
+--->
 
 ### Where To Find Me
 <div>
