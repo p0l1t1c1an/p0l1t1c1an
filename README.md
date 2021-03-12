@@ -51,7 +51,7 @@ I am a big fan of the Rust language, the BSD family, and 60s to 70s Progressive 
 ### Where To Find Me
 <div>
   
-  [<img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />][github]
+  [<img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white&color=222222" />][github]
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
   [<img src="https://img.shields.io/badge/discord-7289da.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
 
