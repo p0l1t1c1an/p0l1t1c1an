@@ -10,7 +10,7 @@ I am a big fan of the Rust language, the BSD family, and 60s to 70s Progressive 
 - **Mines**: A minesweeper clone that I wrote in C with GTK3. 
 - **Bsdfan-rust**: A BSD utility to control fans on Thinkpads and other devices that support the acpi_ibm driver.  
 
-#### Current and Future
+#### Current
 - **Septem**: A configurable daily productivity tracker by recording what applications you are on and for how long.
 - **HomeServer**: I am setting up my own server and will be documenting the my use of the server to reference later.
 
