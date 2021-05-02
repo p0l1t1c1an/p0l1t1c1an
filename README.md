@@ -3,7 +3,7 @@
 My name is Jacob Boicken. I'm a cybersecurity engineer studying at Iowa State.  
 I'm not much of a programmer. All I've done has been for personal use like a minesweeper clone or a fan controller for my computer.   
 When it comes down my interests, I would rather learn about cybersecurity, **ethics**, or pyschology over programming any day.   
-I am a big fan of the Rust language, the BSD family, and 60s to 70s Progressive Rock.
+I am a big fan of the Rust language, the BSD family, and 50s to 70s Rock.
 
 ### My Projects
 #### Completed
