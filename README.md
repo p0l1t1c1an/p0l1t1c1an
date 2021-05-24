@@ -1,9 +1,9 @@
 # Howdy!
 
 My name is Jacob Boicken. I'm a cybersecurity engineer studying at Iowa State.  
-I'm not much of a programmer. All I've done has been for personal use like a minesweeper clone or a fan controller for my computer.   
-When it comes down my interests, I would rather learn about cybersecurity, **ethics**, or pyschology over programming any day.   
-I am a big fan of the Rust language, the BSD family, and 50s to 70s Rock.
+I'm not much of a programmer. What I make is for personal use like a minesweeper clone or a fan controller.   
+When it comes down my interests, I would rather learn about networking, cybersecurity, **ethics**, or pyschology.   
+I am a big fan of the Rust language, the OpenBSD and FreeBSD, and 50s to 70s Rock.
 
 ### My Projects
 #### Completed
@@ -14,7 +14,7 @@ I am a big fan of the Rust language, the BSD family, and 50s to 70s Rock.
 - **Septem**: A configurable daily productivity tracker by recording what applications you are on and for how long.
 - **HomeServer**: I am setting up my own server and will be documenting the my use of the server to reference later.
 
-<!---
+<!--- Old Stuff I had (just in case)
 ### Technologies I'm familiar with:
 #### Languages
 <div>
