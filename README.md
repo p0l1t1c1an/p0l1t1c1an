@@ -5,17 +5,18 @@
 # Howdy! 
 
 My name is Jacob Boicken. I'm a cybersecurity engineer studying at Iowa State.
-I love to work on my server, read about security, history, ethics, and pyschology books.
-I enjoy programming in Rust and C/C++ and have reluctanly been force into Java for schoolwork.
-I am a big fan OpenBSD and FreeBSD Operating Systems and 50s to 70s Rock.   
+I love to work on my server and read security, history, ethics, and pyschology books.
+I enjoy programming in **Rust** and C/C++ and have been force into Java for schoolwork.
+I am a big fan OpenBSD & FreeBSD, but I have also been looking into Void Linux.
+Also, 50s to 70s rock is undeniably the greatest.    
 
 ---
 
 ### My Projects
 #### Completed
-- **Mines**: A minesweeper clone that I wrote in C with GTK3. 
-- **Bsdfan-rust**: A BSD utility to control fans on Thinkpads and other devices that support the acpi_ibm driver. 
-- **gitstatus-rs**: An uber simplified gitstatus program to be used with [powerlevel10k](https://github.com/romkatv/powerlevel10k). (Still needs to test merging)
+- **Mines**: A minesweeper clone that I wrote in C with GTK3.
+- **bsdfan-rust**: A FreeBSD utility to control fan speeds on Thinkpads and other devices that support the acpi_ibm driver. 
+- **gitstatus-rs**: An über simplified gitstatus program to be used with [powerlevel10k](https://github.com/romkatv/powerlevel10k). (Still needs to test merging)
 
 #### Current
 - **Septem**: A configurable daily productivity tracker by recording what applications you are on and for how long.
