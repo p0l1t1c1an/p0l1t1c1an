@@ -15,7 +15,7 @@ I am a big fan OpenBSD and FreeBSD Operating Systems and 50s to 70s Rock.
 #### Completed
 - **Mines**: A minesweeper clone that I wrote in C with GTK3. 
 - **Bsdfan-rust**: A BSD utility to control fans on Thinkpads and other devices that support the acpi_ibm driver. 
-- **gitstatus-rs**: An uber simplified gitstatus program to be used with [powerlevel10k](https://github.com/romkatv/powerlevel10k). (Still needs merge feature.)
+- **gitstatus-rs**: An uber simplified gitstatus program to be used with [powerlevel10k](https://github.com/romkatv/powerlevel10k). (Still needs to test merging)
 
 #### Current
 - **Septem**: A configurable daily productivity tracker by recording what applications you are on and for how long.
