@@ -15,7 +15,7 @@ Also, 50s to 70s rock is undeniably the greatest.
 ### My Projects
 #### Completed
 - **Mines**: A minesweeper clone that I wrote in C with GTK3.
-- **bsdfan-rust**: A FreeBSD utility to control fan speeds on Thinkpads and other devices that support the acpi_ibm driver. 
+- **bsdfan-rs**: A FreeBSD utility to control fan speeds on Thinkpads and other devices that support the acpi_ibm driver. 
 - **gitstatus-rs**: An über simplified gitstatus program to be used with [powerlevel10k](https://github.com/romkatv/powerlevel10k). (Still needs to test merging)
 
 #### Current
