@@ -1,6 +1,6 @@
 ---
 
-<img align="right" src=p0l1t1c1an_logo.svg width="50%"/>
+<img align="right" src=p0l1t1c1an_logo.svg width="35%"/>
 
 # Howdy! 
 
