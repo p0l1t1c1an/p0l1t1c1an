@@ -7,8 +7,8 @@
 My name is Jacob Boicken. I'm a cybersecurity engineer studying at Iowa State.
 I love to work on my server and read security, history, ethics, and pyschology books.
 I enjoy programming in **Rust** and C/C++ and have been force into Java for schoolwork.
-I am a big fan OpenBSD & FreeBSD, but I have also been looking into Void Linux.
-Also, 50s to 70s rock is undeniably the greatest.    
+I am a big fan **OpenBSD** & FreeBSD, but I have also been enjoying NoSystemd Linux Distros like Void, Devuan, & Artix.
+Love classic rock (& a little country) from the 50s, 60s, & 70s, punk/alt rock from 90s & 2000s, and a TON of video game music. 
 
 ---
 
