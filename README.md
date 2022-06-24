@@ -4,28 +4,28 @@
 
 # Howdy! 
 
-My name is Jacob Boicken. I'm a cybersecurity engineer studying at Iowa State.
-And just like every computer nerd, I have no personality outside of it! 
+I'm Jacob Boicken, a Cybersecurity Engineer Studying at Iowa State. 
+
+And I definitely don't use my homelab as a space heater in the winter. 
 
 ---
 
 ### About Me
-- **Currently**: I'm a security intern at an insurance company in Des Moines and working on my server and reading books on weekend.
+- **Currently**: I'm a security intern by day and homelab enthusiast by night.
 
-- **Coding**: I love to program in my free time but you can't make me do development. Mostly, what I end up doing is Rust, C, or Python, 
-but also Java for school.
+- **Coding**: I love to program on my own time in Rust, C, or Python. But I don't want to live development hell ever!
 
-- **OS**: On the daily, I use BSD family OSes, but I have also been enjoying NoSystemd Linux distros and Illumos/Solaris. 
+- **OS**: On the daily, I use BSD family OSes, but I have also been enjoying NoSystemd Linux distros and Illumos. 
 
-- **Music**: I am a variety pack of music. Name a genre and I listen to. From classic rock and country to dubstep and electric swing to R&B and rap.     
+- **Music**: I am a variety pack of music. Name a genre and I listen to. From classic rock to dubstep to R&B.     
 
 
 ---
 
 ### Projects I am Working On
-- **HomeServer**: Setting up my own SmastOS server as a virtualization center and file server that will be documented along the way.
+- **HomeServer**: Setting up my own SmastOS server as a VM/container center that will be documented along the way.
 
-- **C-utils**: Writing OOB in C! Trying to build stable data structures in C so I don't have to keep reinventing the wheel in every C project. 
+- **C-utils**: Writing OOB in C! So I don't have to keep reinventing the wheel in every C project. 
 
 - **WebServer**: Porting my github.io website to a Rust web server that I will be building when I get around to it.  
 
