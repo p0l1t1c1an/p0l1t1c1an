@@ -1,26 +1,33 @@
 ---
 
-<img align="right" src=p0l1t1c1an_logo.svg width="35%"/>
+<!--- <img align="right" src=p0l1t1c1an_logo.svg width="35%"/> --->
 
 # Howdy! 
 
 My name is Jacob Boicken. I'm a cybersecurity engineer studying at Iowa State.
-I love to work on my server and read security, history, ethics, and pyschology books.
-I enjoy programming in **Rust** and C/C++ and have been force into Java for schoolwork.
-I am a big fan **OpenBSD** & FreeBSD, but I have also been enjoying NoSystemd Linux Distros like Void, Devuan, & Artix.
-Love classic rock (& a little country) from the 50s, 60s, & 70s, punk/alt rock from 90s & 2000s, and a TON of video game music. 
+And just like every computer nerd, I have no personality outside of it! 
 
 ---
 
-### My Projects
-#### Completed
-- **Mines**: A minesweeper clone that I wrote in C with GTK3.
-- **bsdfan-rs**: A FreeBSD utility to control fan speeds on Thinkpads and other devices that support the acpi_ibm driver. 
-- **gitstatus-rs**: An über simplified gitstatus program to be used with [powerlevel10k](https://github.com/romkatv/powerlevel10k). (Still needs to test merging)
+### About Me
+- **Currently**: I'm a security intern at an insurance company in Des Moines and working on my server and reading books on weekend.
 
-#### Current
-- **Septem**: A configurable daily productivity tracker by recording what applications you are on and for how long.
-- **HomeServer**: I am setting up my own server and will be documenting the my use of the server to reference later.
+- **Coding**: I love to program in my free time but you can't make me do development. Mostly, what I end up doing is Rust, C, or Python, 
+but also Java for school.
+
+- **OS**: On the daily, I use BSD family OSes, but I have also been enjoying NoSystemd Linux distros and Illumos/Solaris. 
+
+- **Music**: I am a variety pack of music. Name a genre and I listen to. From classic rock and country to dubstep and electric swing to R&B and rap.     
+
+
+---
+
+### Projects I am Working On
+- **HomeServer**: Setting up my own SmastOS server as a virtualization center and file server that will be documented along the way.
+
+- **C-utils**: Writing OOB in C! Trying to build stable data structures in C so I don't have to keep reinventing the wheel in every C project. 
+
+- **WebServer**: Porting my github.io website to a Rust web server that I will be building when I get around to it.  
 
 ---
 
