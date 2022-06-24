@@ -23,7 +23,7 @@ And I definitely don't use my homelab as a space heater in the winter.
 ---
 
 ### Projects I am Working On
-- **HomeServer**: Setting up my own SmastOS server as a VM/container center that will be documented along the way.
+- **HomeServer**: Setting up my own SmastOS server to run VM/containers and will be documented along the way.
 
 - **C-utils**: Writing OOB in C! So I don't have to keep reinventing the wheel in every C project. 
 
