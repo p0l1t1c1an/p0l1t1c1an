@@ -11,7 +11,7 @@ I am currently stuck behind a CGNAT setup in my apartment, so you'll be having a
 ### About Me
 - **Currently**: I'm a security student by day and a programmer turned homelab enthusiast by night.
 
-- **Coding**: I love to program on my own time in Rust, C, or Python. I reluctantly work in Java but want to replace that with Kotlin.   
+- **Coding**: I love to program in Rust, C, or Python. I reluctantly work in Java but want to replace that with Kotlin.
 
 - **OS**: Mainly, I use the BSD family, but I also run a hardened Arch Linux set up and have been learning Illumos. 
 
@@ -23,7 +23,7 @@ I am currently stuck behind a CGNAT setup in my apartment, so you'll be having a
 ---
 
 ### Projects I am Working On
-- **HomeServer**: Setting up my own SmastOS/Illumos server to run VM/containers and will be documented along the way.
+- **HomeServer**: Setting up my own SmastOS/Illumos server to run VM/containers and documenting along the way.
 
 - **C-utils**: Writing Objects In C! So I don't have to keep reinventing the wheel in every C project. 
 
