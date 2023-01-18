@@ -15,20 +15,23 @@ I am currently stuck behind a CGNAT setup in my apartment, so you'll be having a
 
 - **OS**: Mainly, I use the BSD family, but I also run a hardened Arch Linux set up and have been learning Illumos. 
 
-- **Music**: I am a variety pack of music. Name a genre and I listen to. From classic rock to dubstep to R&B.     
+- **Music**: I am a rock maniac. Love the Doobie Brothers, ELO, the Kinks, and Buffalo Springfield.    
 
-- **Career**: A few fields look really interesting to me: Threat Hunting, Incident Response, and DevSecOps/AppSec.
-    - Hoping to start as a jr security analyst and move up to actionable roles w/ TH or IR. 
-    - As well, starting in DevOps position then moving to DevSecOps/AppSec.  
+- **Career**: I want to eventual be a security architech but before that that I need to go through all the roles.
+    - Would like to start as an analyst and move to threat hunting and incident response.  
+    - Or starting in DevOps/Software position then moving to DevSecOps/AppSec.
+    - Then, working as a security engineer with focus in cloud and container security.
 ---
 
 ### Projects I am Working On
-- **HomeServer**: Setting up my own SmastOS/Illumos server to run VM/containers and documenting along the way.
-
-- **C-utils**: Writing Objects In C! So I don't have to keep reinventing the wheel in every C project. 
+- **HomeLab**: Setting up my own Kubernetes cluster and monitoring it with all through Grafana/Loki.
 
 - **WebServer**: Porting my github.io website to a Rust web server that I will be building when I get around to it.
     - On hold as my current apartment doesn't provide me with an IPv6 address
+
+- **AccumulatedKnowledge**: Wiki.js markdown notes to document everything I have learned through college.
+    - Bottom-up approach to hardware, software, and security concepts and seeing how they all connect. 
+    - *Not yet started*
 
 ---
 
