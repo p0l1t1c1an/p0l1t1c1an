@@ -17,7 +17,7 @@ I am currently stuck behind a CGNAT setup in my apartment, so you'll be having a
 
 - **Music**: I am a rock maniac. Love the Doobie Brothers, ELO, the Kinks, and Buffalo Springfield.    
 
-- **Career**: I want to eventual be a security architech but before that that I need to go through all the roles.
+- **Career**: I want to eventually be a security architech but before that that I need to go through all the roles.
     - Would like to start as an analyst and move to threat hunting and incident response.  
     - Or starting in DevOps/Software position then moving to DevSecOps/AppSec.
     - Then, working as a security engineer with focus in cloud and container security.
@@ -48,6 +48,6 @@ I am currently stuck behind a CGNAT setup in my apartment, so you'll be having a
 
 <!-- Where to Find Me -->
 [github]: https://github.com/p0l1t1c1an
-[linkedin]: https://www.linkedin.com/in/jacob-boicken-0201571b7/
+[linkedin]: https://www.linkedin.com/in/jacob-boicken/
 [discord]: https://discordapp.com/users/745105200523771924 
 
