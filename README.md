@@ -29,7 +29,7 @@ I am currently stuck behind a CGNAT setup in my apartment, so you'll be having a
 - **WebServer**: Porting my github.io website to a Rust web server that I will be building when I get around to it.
     - On hold as my current apartment doesn't provide me with an IPv6 address
 
-- **AccumulatedKnowledge**: Wiki.js markdown notes to document everything I have learned through college.
+- **AccumulatedKnowledge**: Hugo + geekdocs markdown notes about everything I have learned in college.
     - Bottom-up approach to hardware, software, and security concepts and seeing how they all connect. 
     - *Not yet started*
 
