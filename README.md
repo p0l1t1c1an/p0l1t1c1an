@@ -9,29 +9,27 @@ I am currently stuck behind a CGNAT setup in my apartment, so you'll be having a
 ---
 
 ### About Me
-- **Currently**: I'm a security student by day and a programmer turned homelab enthusiast by night.
+- **Currently**: I am the void personified that turned into a homelab enthusiast with an endless electric bill.
 
-- **Coding**: I love to program in Rust, C, or Python. I reluctantly work in Java but want to replace that with Kotlin.
+- **Coding**: I love Rust, C, and Python. School taught me \*gag\* Java and somehow I learned C# along the way.
 
-- **OS**: Mainly, I use the BSD family, but I also run a hardened Arch Linux set up and have been learning Illumos. 
+- **OS**: I love the BSD and Linux systems. Run them for my servers, network and endpoints.
+    - Containerize everything!
 
-- **Music**: I am a rock maniac. Love the Doobie Brothers, ELO, the Kinks, and Buffalo Springfield.    
+- **Music**: I listen to just about any kind of music. Rock is my favorite child though. 
+    - Metal, Acid, Psychedelia, Prog, Folk, Alt, Punk, Indie. All so good!      
 
-- **Career**: I want to eventually be a security architech but before that that I need to go through all the roles.
-    - Would like to start as an analyst and move to threat hunting and incident response.  
-    - Or starting in DevOps/Software position then moving to DevSecOps/AppSec.
-    - Then, working as a security engineer with focus in cloud and container security.
+- **Career**: I am currently working for Epic Hosting (the EHR company) as a Client Systems Administrator
+    - I am basic just a cloud engineering managing the VMs and Applications
 ---
 
 ### Projects I am Working On
 - **HomeLab**: Setting up my own Kubernetes cluster and monitoring it with all through Grafana/Loki.
 
-- **WebServer**: Porting my github.io website to a Rust web server that I will be building when I get around to it.
-    - On hold as my current apartment doesn't provide me with an IPv6 address
+- **Website**: Running my github site from AWS Amplify for the fun of it
 
-- **AccumulatedKnowledge**: Hugo + geekdocs markdown notes about everything I have learned in college.
-    - Bottom-up approach to hardware, software, and security concepts and seeing how they all connect. 
-    - *Not yet started*
+- **GlucoseCloud**: Planning to run [Nightscout](https://nightscout.github.io) in AWS or Azure to view my bloodsugar from anywhere.
+    - Name is patent pending /s
 
 ---
 
